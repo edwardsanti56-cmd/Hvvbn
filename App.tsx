@@ -97,9 +97,9 @@ export const App: React.FC = () => {
               <div className="relative group">
                 <div className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl blur opacity-20 group-hover:opacity-40 transition duration-1000 group-hover:duration-200"></div>
                 <img
-                  src="https://picsum.photos/400/400?random=1&grayscale"
+                  src="https://images.unsplash.com/photo-1618077360395-f3068be8e001?q=80&w=1000&auto=format&fit=crop"
                   alt="Benjamin Santiago"
-                  className="relative rounded-2xl shadow-xl w-full h-auto object-cover border border-zinc-200 bg-white"
+                  className="relative rounded-2xl shadow-xl w-full h-auto object-cover border border-zinc-200 bg-white grayscale"
                 />
               </div>
             </div>
